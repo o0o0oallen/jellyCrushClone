@@ -1,0 +1,125 @@
+{
+  "ID": "9053ab2a-2033-4861-a55a-b55da0519592",
+  "Version": "3.10.0.0",
+  "Name": "guide_dialog",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 805,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "guide/frame.png",
+              "Plist": "csi/csi_34.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -269.5,
+            "RightMargin": -269.5,
+            "TopMargin": -80.5,
+            "BottomMargin": -80.5,
+            "Tag": 806,
+            "ActionTag": -1785968252,
+            "Size": {
+              "X": 539.0,
+              "Y": 161.0
+            },
+            "Name": "frame_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "guide/lv1.png",
+              "Plist": "csi/csi_25.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -208.0,
+            "RightMargin": -208.0,
+            "TopMargin": -30.5,
+            "BottomMargin": -30.5,
+            "Tag": 807,
+            "ActionTag": -5777757,
+            "Size": {
+              "X": 416.0,
+              "Y": 61.0
+            },
+            "Name": "text",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../csi/csi_25.plist",
+        "../csi/csi_25.png",
+        "../csi/csi_34.plist",
+        "../csi/csi_34.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

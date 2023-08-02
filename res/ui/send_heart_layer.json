@@ -1,0 +1,354 @@
+{
+  "ID": "adfe24ea-078a-474c-bbe1-2aa544d3a565",
+  "Version": "3.10.0.0",
+  "Name": "send_heart_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 724,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "rank/tip_bg_scale.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 99,
+            "Scale9OriginY": 80,
+            "Scale9Width": 102,
+            "Scale9Height": 139,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 368.8125,
+              "Y": 636.2768
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5122,
+              "Y": 0.4971
+            },
+            "PreSize": {
+              "X": 0.875,
+              "Y": 0.4594
+            },
+            "LeftMargin": 53.8125,
+            "RightMargin": 36.1875,
+            "TopMargin": 349.7232,
+            "BottomMargin": 342.2768,
+            "Tag": 725,
+            "ActionTag": 475418778,
+            "Size": {
+              "X": 630.0,
+              "Y": 588.0
+            },
+            "Name": "Image_1_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "rank/tip_bg_scale1.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 49,
+            "Scale9OriginY": 49,
+            "Scale9Width": 52,
+            "Scale9Height": 52,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 366.8062,
+              "Y": 616.4713
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5095,
+              "Y": 0.4816
+            },
+            "PreSize": {
+              "X": 0.7722,
+              "Y": 0.3531
+            },
+            "LeftMargin": 88.8062,
+            "RightMargin": 75.1938,
+            "TopMargin": 437.5287,
+            "BottomMargin": 390.4713,
+            "Tag": 726,
+            "ActionTag": 479000319,
+            "Size": {
+              "X": 556.0,
+              "Y": 452.0
+            },
+            "Name": "Image_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "choose_map/heart1.png",
+              "Plist": "csi/csi_9.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0002,
+              "Y": 696.0312
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5438
+            },
+            "PreSize": {
+              "X": 0.3694,
+              "Y": 0.2086
+            },
+            "LeftMargin": 227.0002,
+            "RightMargin": 226.9998,
+            "TopMargin": 450.4688,
+            "BottomMargin": 562.5312,
+            "Tag": 728,
+            "ActionTag": -1002868187,
+            "Size": {
+              "X": 266.0,
+              "Y": 267.0
+            },
+            "Name": "heart1_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "choose_map/senddes.png",
+              "Plist": "csi/csi_9.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0002,
+              "Y": 554.0812
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4329
+            },
+            "PreSize": {
+              "X": 0.3931,
+              "Y": 0.0195
+            },
+            "LeftMargin": 218.5002,
+            "RightMargin": 218.4998,
+            "TopMargin": 713.4188,
+            "BottomMargin": 541.5812,
+            "Tag": 729,
+            "ActionTag": -380334267,
+            "Size": {
+              "X": 283.0,
+              "Y": 25.0
+            },
+            "Name": "senddes_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "choose_map/sendtitle.png",
+              "Plist": "csi/csi_9.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0002,
+              "Y": 866.7653
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6772
+            },
+            "PreSize": {
+              "X": 0.6556,
+              "Y": 0.0344
+            },
+            "LeftMargin": 124.0002,
+            "RightMargin": 123.9998,
+            "TopMargin": 391.2347,
+            "BottomMargin": 844.7653,
+            "Tag": 730,
+            "ActionTag": 1847019991,
+            "Size": {
+              "X": 472.0,
+              "Y": 44.0
+            },
+            "Name": "sendtitle_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "result/gembtn.png",
+              "Plist": "csi/csi_9.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 357.7844,
+              "Y": 462.9992
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4969,
+              "Y": 0.3617
+            },
+            "PreSize": {
+              "X": 0.4639,
+              "Y": 0.0836
+            },
+            "LeftMargin": 190.7844,
+            "RightMargin": 195.2156,
+            "TopMargin": 763.5008,
+            "BottomMargin": 409.4992,
+            "Tag": 731,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "choose_map/claimdes.png",
+                  "Plist": "csi/csi_9.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 171.0038,
+                  "Y": 58.0544
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.512,
+                  "Y": 0.5426
+                },
+                "PreSize": {
+                  "X": 0.3114,
+                  "Y": 0.3364
+                },
+                "LeftMargin": 119.0038,
+                "RightMargin": 110.9962,
+                "TopMargin": 30.9456,
+                "BottomMargin": 40.0544,
+                "Tag": 727,
+                "ActionTag": 202337,
+                "Size": {
+                  "X": 104.0,
+                  "Y": 36.0
+                },
+                "Name": "claimdes_1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1593927365,
+            "Size": {
+              "X": 334.0,
+              "Y": 107.0
+            },
+            "Name": "claimbtn",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../csi/csi_9.plist",
+        "../csi/csi_9.png",
+        "../csi/scaleplist.plist",
+        "../csi/scaleplist.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

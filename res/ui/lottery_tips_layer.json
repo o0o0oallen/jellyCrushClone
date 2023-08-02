@@ -1,0 +1,402 @@
+{
+  "ID": "92d482c3-c4da-4f92-8c0f-e9261ba42eeb",
+  "Version": "3.10.0.0",
+  "Name": "lottery_tips_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "rank/tip_bg_scale.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 99,
+            "Scale9OriginY": 99,
+            "Scale9Width": 102,
+            "Scale9Height": 102,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.9181,
+              "Y": 0.4594
+            },
+            "LeftMargin": 29.5,
+            "RightMargin": 29.5,
+            "TopMargin": 346.0,
+            "BottomMargin": 346.0,
+            "Tag": 390,
+            "ActionTag": 823757860,
+            "Size": {
+              "X": 661.0,
+              "Y": 588.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "rank/tip_bg_scale1.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 49,
+            "Scale9OriginY": 49,
+            "Scale9Width": 52,
+            "Scale9Height": 52,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 362.9316,
+              "Y": 610.2186
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5041,
+              "Y": 0.4767
+            },
+            "PreSize": {
+              "X": 0.7722,
+              "Y": 0.3281
+            },
+            "LeftMargin": 84.9316,
+            "RightMargin": 79.0684,
+            "TopMargin": 459.7814,
+            "BottomMargin": 400.2186,
+            "Tag": 389,
+            "ActionTag": 1013028343,
+            "Size": {
+              "X": 556.0,
+              "Y": 420.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/closebtnbg.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 608.0593,
+              "Y": 854.8674
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8445,
+              "Y": 0.6679
+            },
+            "PreSize": {
+              "X": 0.1139,
+              "Y": 0.0641
+            },
+            "LeftMargin": 567.0593,
+            "RightMargin": 70.9407,
+            "TopMargin": 384.1326,
+            "BottomMargin": 813.8674,
+            "Tag": 388,
+            "ActionTag": -1145587173,
+            "Size": {
+              "X": 82.0,
+              "Y": 82.0
+            },
+            "Name": "closebtnbg_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "rank/close.png",
+              "Plist": "csi/csi_17.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 608.2372,
+              "Y": 855.6453
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8448,
+              "Y": 0.6685
+            },
+            "PreSize": {
+              "X": 0.0722,
+              "Y": 0.0406
+            },
+            "LeftMargin": 582.2372,
+            "RightMargin": 85.7628,
+            "TopMargin": 398.3547,
+            "BottomMargin": 829.6453,
+            "Tag": 20,
+            "ActionTag": -1486607515,
+            "Size": {
+              "X": 52.0,
+              "Y": 52.0
+            },
+            "Name": "btnClose",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "sign/tommorrow.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0002,
+              "Y": 735.5402
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5746
+            },
+            "PreSize": {
+              "X": 0.6389,
+              "Y": 0.0641
+            },
+            "LeftMargin": 130.0002,
+            "RightMargin": 129.9998,
+            "TopMargin": 503.4598,
+            "BottomMargin": 694.5402,
+            "Tag": 22,
+            "ActionTag": -1461413735,
+            "Size": {
+              "X": 500.0,
+              "Y": 82.0
+            },
+            "Name": "tommorrow_17",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "sign/icon.png",
+              "Plist": "csi/csi_14.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5827,
+              "ScaleY": 0.4095
+            },
+            "Position": {
+              "X": 376.7062,
+              "Y": 583.3817
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5232,
+              "Y": 0.4558
+            },
+            "PreSize": {
+              "X": 0.2806,
+              "Y": 0.1016
+            },
+            "LeftMargin": 259.0002,
+            "RightMargin": 258.9998,
+            "TopMargin": 619.8577,
+            "BottomMargin": 530.1423,
+            "Tag": 23,
+            "ActionTag": 1994606568,
+            "Size": {
+              "X": 205.0,
+              "Y": 130.0
+            },
+            "Name": "icon_18",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "sign/btn_ok.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0002,
+              "Y": 461.3972
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3605
+            },
+            "PreSize": {
+              "X": 0.3472,
+              "Y": 0.068
+            },
+            "LeftMargin": 235.0002,
+            "RightMargin": 234.9998,
+            "TopMargin": 775.1028,
+            "BottomMargin": 417.8972,
+            "Tag": 24,
+            "ActionTag": 1081593157,
+            "Size": {
+              "X": 250.0,
+              "Y": 87.0
+            },
+            "Name": "btnOk",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "sign/no_enough.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 345.7055,
+              "Y": 856.6969
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4801,
+              "Y": 0.6693
+            },
+            "PreSize": {
+              "X": 0.6264,
+              "Y": 0.0281
+            },
+            "LeftMargin": 120.2055,
+            "RightMargin": 148.7945,
+            "TopMargin": 405.3031,
+            "BottomMargin": 838.6969,
+            "Tag": 25,
+            "ActionTag": 1366196472,
+            "Size": {
+              "X": 459.0,
+              "Y": 32.0
+            },
+            "Name": "no_enough_20",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../csi/csi_1.plist",
+        "../csi/csi_1.png",
+        "../csi/csi_14.plist",
+        "../csi/csi_14.png",
+        "../csi/csi_17.plist",
+        "../csi/csi_17.png",
+        "../csi/csi_2.plist",
+        "../csi/csi_2.png",
+        "../csi/scaleplist.plist",
+        "../csi/scaleplist.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

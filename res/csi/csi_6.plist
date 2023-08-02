@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>task/task_progress.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,976},{305,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{305,27}</string>
+			</dict>
+			<key>task/task_tips_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,884},{360,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,90}</string>
+			</dict>
+			<key>task/task_normal_get.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{938,845},{143,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{143,77}</string>
+			</dict>
+			<key>effect/broom/kill8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{363,884},{384,67}}</string>
+				<key>offset</key>
+				<string>{8,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{400,75}</string>
+			</dict>
+			<key>element/star_big.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{618,631},{219,198}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{228,200}</string>
+			</dict>
+			<key>effect/pudding_bomb_effect/y8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{631,1},{178,200}}</string>
+				<key>offset</key>
+				<string>{-5,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{210,210}</string>
+			</dict>
+			<key>effect/pudding_bomb_effect/y9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{631,405},{188,177}}</string>
+				<key>offset</key>
+				<string>{-4,12}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{210,210}</string>
+			</dict>
+			<key>rank/down_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,631},{615,251}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{615,251}</string>
+			</dict>
+			<key>lottery/circle_frame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{628,628}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{628,628}</string>
+			</dict>
+			<key>choose_map/top_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{818,1},{720,192}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{720,192}</string>
+			</dict>
+			<key>effect/pudding_bomb_effect/p7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{749,852},{167,187}}</string>
+				<key>offset</key>
+				<string>{-4,6}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{210,210}</string>
+			</dict>
+			<key>effect/pudding_bomb_effect/p8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{631,203},{178,200}}</string>
+				<key>offset</key>
+				<string>{-5,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{210,210}</string>
+			</dict>
+			<key>effect/pudding_bomb_effect/y3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{818,723},{168,120}}</string>
+				<key>offset</key>
+				<string>{2,24}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{210,210}</string>
+			</dict>
+			<key>effect/pudding_bomb_effect/y1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{363,953},{63,55}}</string>
+				<key>offset</key>
+				<string>{3,28}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{210,210}</string>
+			</dict>
+			<key>rank/lose_line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1005},{4,166}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{4,166}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>csi_6.png</string>
+			<key>realTextureFileName</key>
+			<string>csi_6.png</string>
+			<key>size</key>
+			<string>{1016,1020}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1016</integer>
+			<key>height</key>
+			<integer>1020</integer>
+		</dict>
+	</dict>
+</plist>

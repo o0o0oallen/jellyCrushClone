@@ -1,0 +1,911 @@
+{
+  "ID": "6e70fd53-5b54-4f66-9ecd-287da00b0794",
+  "Version": "3.10.0.0",
+  "Name": "payment_shop_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 51,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/scalebg.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 99,
+            "Scale9OriginY": 99,
+            "Scale9Width": 102,
+            "Scale9Height": 102,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 362.52,
+              "Y": 649.9443
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5035,
+              "Y": 0.5078
+            },
+            "PreSize": {
+              "X": 0.9444,
+              "Y": 0.8266
+            },
+            "LeftMargin": 22.52,
+            "RightMargin": 17.48,
+            "TopMargin": 101.0557,
+            "BottomMargin": 120.9443,
+            "Tag": 162,
+            "ActionTag": 701967299,
+            "Size": {
+              "X": 680.0,
+              "Y": 1058.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/titlebgleft.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 518.51,
+              "Y": 1086.0188
+            },
+            "Scale": {
+              "ScaleX": -1.16,
+              "ScaleY": 1.1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7202,
+              "Y": 0.8485
+            },
+            "PreSize": {
+              "X": 0.3833,
+              "Y": 0.0969
+            },
+            "LeftMargin": 380.51,
+            "RightMargin": 63.49,
+            "TopMargin": 131.9812,
+            "BottomMargin": 1024.0188,
+            "Tag": 161,
+            "ActionTag": 354109020,
+            "Size": {
+              "X": 276.0,
+              "Y": 124.0
+            },
+            "Name": "titlebg2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/titlebgleft.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 199.08,
+              "Y": 1086.0188
+            },
+            "Scale": {
+              "ScaleX": 1.16,
+              "ScaleY": 1.1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2765,
+              "Y": 0.8485
+            },
+            "PreSize": {
+              "X": 0.3833,
+              "Y": 0.0969
+            },
+            "LeftMargin": 61.08,
+            "RightMargin": 382.92,
+            "TopMargin": 131.9812,
+            "BottomMargin": 1024.0188,
+            "Tag": 160,
+            "ActionTag": 1173675397,
+            "Size": {
+              "X": 276.0,
+              "Y": 124.0
+            },
+            "Name": "titlebg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "shop/shop.png",
+              "Plist": "csi/csi_14.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 372.0355,
+              "Y": 1093.728
+            },
+            "Scale": {
+              "ScaleX": 1.3,
+              "ScaleY": 1.3
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5167,
+              "Y": 0.8545
+            },
+            "PreSize": {
+              "X": 0.2361,
+              "Y": 0.043
+            },
+            "LeftMargin": 287.0355,
+            "RightMargin": 262.9645,
+            "TopMargin": 158.772,
+            "BottomMargin": 1066.228,
+            "Tag": 163,
+            "ActionTag": 1291831586,
+            "Size": {
+              "X": 170.0,
+              "Y": 55.0
+            },
+            "Name": "shop_22",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "rank/losedownbg.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 31,
+            "Scale9OriginY": 31,
+            "Scale9Width": 32,
+            "Scale9Height": 32,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 829.5319
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6481
+            },
+            "PreSize": {
+              "X": 0.8333,
+              "Y": 0.3047
+            },
+            "LeftMargin": 60.0,
+            "RightMargin": 60.0,
+            "TopMargin": 255.4681,
+            "BottomMargin": 634.5319,
+            "Tag": 167,
+            "ActionTag": 1840631121,
+            "Size": {
+              "X": 600.0,
+              "Y": 390.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "shop/bg2.png",
+              "Plist": "csi/csi_16.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 514.564,
+              "Y": 830.0587
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7147,
+              "Y": 0.6485
+            },
+            "PreSize": {
+              "X": 0.3694,
+              "Y": 0.2859
+            },
+            "LeftMargin": 381.564,
+            "RightMargin": 72.436,
+            "TopMargin": 266.9413,
+            "BottomMargin": 647.0587,
+            "Tag": 164,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "shop/price4.png",
+                  "Plist": "csi/csi_16.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 136.5854,
+                  "Y": 32.7688
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5135,
+                  "Y": 0.0895
+                },
+                "PreSize": {
+                  "X": 0.4511,
+                  "Y": 0.0984
+                },
+                "LeftMargin": 76.5854,
+                "RightMargin": 69.4146,
+                "TopMargin": 315.2312,
+                "BottomMargin": 14.7688,
+                "Tag": 288,
+                "ActionTag": 1578658027,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 36.0
+                },
+                "Name": "price",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 685320107,
+            "Size": {
+              "X": 266.0,
+              "Y": 366.0
+            },
+            "Name": "paybtn_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "shop/bg5.png",
+              "Plist": "csi/csi_16.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 226.9995,
+              "Y": 920.9919
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3153,
+              "Y": 0.7195
+            },
+            "PreSize": {
+              "X": 0.425,
+              "Y": 0.1375
+            },
+            "LeftMargin": 73.9995,
+            "RightMargin": 340.0005,
+            "TopMargin": 271.0081,
+            "BottomMargin": 832.9919,
+            "Tag": 165,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "shop/price1.png",
+                  "Plist": "csi/csi_16.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 155.0,
+                  "Y": 32.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5065,
+                  "Y": 0.1818
+                },
+                "PreSize": {
+                  "X": 0.3562,
+                  "Y": 0.1705
+                },
+                "LeftMargin": 100.5,
+                "RightMargin": 96.5,
+                "TopMargin": 129.0,
+                "BottomMargin": 17.0,
+                "Tag": 271,
+                "ActionTag": -1300804777,
+                "Size": {
+                  "X": 109.0,
+                  "Y": 30.0
+                },
+                "Name": "price",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1134610298,
+            "Size": {
+              "X": 306.0,
+              "Y": 176.0
+            },
+            "Name": "paybtn_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "shop/bg6.png",
+              "Plist": "csi/csi_16.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 226.9995,
+              "Y": 737.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3153,
+              "Y": 0.5758
+            },
+            "PreSize": {
+              "X": 0.425,
+              "Y": 0.1375
+            },
+            "LeftMargin": 73.9995,
+            "RightMargin": 340.0005,
+            "TopMargin": 455.0,
+            "BottomMargin": 649.0,
+            "Tag": 166,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "shop/price1.png",
+                  "Plist": "csi/csi_16.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 155.8026,
+                  "Y": 32.0524
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5092,
+                  "Y": 0.1821
+                },
+                "PreSize": {
+                  "X": 0.3562,
+                  "Y": 0.1705
+                },
+                "LeftMargin": 101.3026,
+                "RightMargin": 95.6974,
+                "TopMargin": 128.9476,
+                "BottomMargin": 17.0524,
+                "Tag": 272,
+                "ActionTag": 96816712,
+                "Size": {
+                  "X": 109.0,
+                  "Y": 30.0
+                },
+                "Name": "price",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1479132020,
+            "Size": {
+              "X": 306.0,
+              "Y": 176.0
+            },
+            "Name": "paybtn_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "shop/bg3.png",
+              "Plist": "csi/csi_16.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 472.9016
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3695
+            },
+            "PreSize": {
+              "X": 0.8444,
+              "Y": 0.2438
+            },
+            "LeftMargin": 56.0,
+            "RightMargin": 56.0,
+            "TopMargin": 651.0984,
+            "BottomMargin": 316.9016,
+            "Tag": 168,
+            "ActionTag": -1335382837,
+            "Size": {
+              "X": 608.0,
+              "Y": 312.0
+            },
+            "Name": "bg3_26",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "result/scalebg1.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 39,
+            "Scale9OriginY": 39,
+            "Scale9Width": 42,
+            "Scale9Height": 42,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 238.9574
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1867
+            },
+            "PreSize": {
+              "X": 0.8444,
+              "Y": 0.1234
+            },
+            "LeftMargin": 56.0,
+            "RightMargin": 56.0,
+            "TopMargin": 962.0426,
+            "BottomMargin": 159.9574,
+            "Tag": 270,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "shop/bg4.png",
+                  "Plist": "csi/csi_16.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 155.3755,
+                  "Y": 82.4839
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2556,
+                  "Y": 0.522
+                },
+                "PreSize": {
+                  "X": 0.3799,
+                  "Y": 0.6519
+                },
+                "LeftMargin": 39.8755,
+                "RightMargin": 337.1245,
+                "TopMargin": 24.0161,
+                "BottomMargin": 30.9839,
+                "Tag": 276,
+                "ActionTag": 1412201004,
+                "Size": {
+                  "X": 231.0,
+                  "Y": 103.0
+                },
+                "Name": "bg4_34",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -770908991,
+            "Size": {
+              "X": 608.0,
+              "Y": 158.0
+            },
+            "Name": "Image_9",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "shop/buybtn.png",
+              "Plist": "csi/csi_16.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 537.8979,
+              "Y": 232.6469
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7471,
+              "Y": 0.1818
+            },
+            "PreSize": {
+              "X": 0.3153,
+              "Y": 0.1031
+            },
+            "LeftMargin": 424.3979,
+            "RightMargin": 68.6021,
+            "TopMargin": 981.3531,
+            "BottomMargin": 166.6469,
+            "Tag": 274,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "shop/price2.png",
+                  "Plist": "csi/csi_16.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 121.6545,
+                  "Y": 63.8817
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5359,
+                  "Y": 0.484
+                },
+                "PreSize": {
+                  "X": 0.5815,
+                  "Y": 0.303
+                },
+                "LeftMargin": 55.6545,
+                "RightMargin": 39.3455,
+                "TopMargin": 48.1183,
+                "BottomMargin": 43.8817,
+                "Tag": 275,
+                "ActionTag": -594860895,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 40.0
+                },
+                "Name": "price2_33",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1123676671,
+            "Size": {
+              "X": 227.0,
+              "Y": 132.0
+            },
+            "Name": "paybtn_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "shop/buybtn.png",
+              "Plist": "csi/csi_16.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 540.3998,
+              "Y": 389.2824
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7506,
+              "Y": 0.3041
+            },
+            "PreSize": {
+              "X": 0.3153,
+              "Y": 0.1031
+            },
+            "LeftMargin": 426.8998,
+            "RightMargin": 66.1002,
+            "TopMargin": 824.7176,
+            "BottomMargin": 323.2824,
+            "Tag": 268,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "shop/price3.png",
+                  "Plist": "csi/csi_16.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 115.8994,
+                  "Y": 63.8833
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5106,
+                  "Y": 0.484
+                },
+                "PreSize": {
+                  "X": 0.5815,
+                  "Y": 0.303
+                },
+                "LeftMargin": 49.8994,
+                "RightMargin": 45.1006,
+                "TopMargin": 48.1167,
+                "BottomMargin": 43.8833,
+                "Tag": 273,
+                "ActionTag": 538352252,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 40.0
+                },
+                "Name": "price3_31",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1674850908,
+            "Size": {
+              "X": 227.0,
+              "Y": 132.0
+            },
+            "Name": "paybtn_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "rank/close.png",
+              "Plist": "csi/csi_17.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 614.364,
+              "Y": 1107.1058
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8533,
+              "Y": 0.8649
+            },
+            "PreSize": {
+              "X": 0.0722,
+              "Y": 0.0406
+            },
+            "LeftMargin": 588.364,
+            "RightMargin": 79.636,
+            "TopMargin": 146.8942,
+            "BottomMargin": 1081.1058,
+            "Tag": 286,
+            "ActionTag": -365680010,
+            "Size": {
+              "X": 52.0,
+              "Y": 52.0
+            },
+            "Name": "btnClose",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../csi/csi_1.plist",
+        "../csi/csi_1.png",
+        "../csi/csi_14.plist",
+        "../csi/csi_14.png",
+        "../csi/csi_16.plist",
+        "../csi/csi_16.png",
+        "../csi/csi_17.plist",
+        "../csi/csi_17.png",
+        "../csi/scaleplist.plist",
+        "../csi/scaleplist.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

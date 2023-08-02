@@ -1,0 +1,170 @@
+{
+  "ID": "5ac46133-bc46-4cac-850f-ff86e1a1c381",
+  "Version": "3.10.0.0",
+  "Name": "up_rank_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 304,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/bg.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 4.0,
+              "ScaleY": 4.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.25,
+              "Y": 0.25
+            },
+            "LeftMargin": 270.0,
+            "RightMargin": 270.0,
+            "TopMargin": 480.0,
+            "BottomMargin": 480.0,
+            "Tag": 305,
+            "ActionTag": 405855089,
+            "Size": {
+              "X": 180.0,
+              "Y": 320.0
+            },
+            "Name": "bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "rank/share.png",
+              "Plist": "csi/csi_20.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1034.8295,
+              "Y": 237.2027
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.4373,
+              "Y": 0.1853
+            },
+            "PreSize": {
+              "X": 0.4444,
+              "Y": 0.082
+            },
+            "LeftMargin": 874.8295,
+            "RightMargin": -474.8295,
+            "TopMargin": 990.2972,
+            "BottomMargin": 184.7027,
+            "Tag": 306,
+            "ActionTag": 1722531581,
+            "Size": {
+              "X": 320.0,
+              "Y": 105.0
+            },
+            "VisibleForFrame": false,
+            "Name": "btnShare",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "rank/continue.png",
+              "Plist": "csi/csi_20.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 240.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1875
+            },
+            "PreSize": {
+              "X": 0.4444,
+              "Y": 0.082
+            },
+            "LeftMargin": 200.0,
+            "RightMargin": 200.0,
+            "TopMargin": 987.5,
+            "BottomMargin": 187.5,
+            "Tag": 307,
+            "ActionTag": 1443072403,
+            "Size": {
+              "X": 320.0,
+              "Y": 105.0
+            },
+            "Name": "btnContinue",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../csi/csi_20.plist",
+        "../csi/csi_20.png",
+        "../game/bg.jpg"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

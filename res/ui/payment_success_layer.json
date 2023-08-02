@@ -1,0 +1,311 @@
+{
+  "ID": "953931a2-1c0e-4b0c-a576-30e3df980eaa",
+  "Version": "3.10.0.0",
+  "Name": "payment_success_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 279,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/scalebg.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 99,
+            "Scale9OriginY": 99,
+            "Scale9Width": 102,
+            "Scale9Height": 102,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 362.52,
+              "Y": 649.9443
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5035,
+              "Y": 0.5078
+            },
+            "PreSize": {
+              "X": 0.9444,
+              "Y": 0.4266
+            },
+            "LeftMargin": 22.52,
+            "RightMargin": 17.48,
+            "TopMargin": 357.0557,
+            "BottomMargin": 376.9443,
+            "Tag": 280,
+            "ActionTag": -2084239667,
+            "Size": {
+              "X": 680.0,
+              "Y": 546.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "shop/suctitle.png",
+              "Plist": "csi/csi_16.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 846.4739
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6613
+            },
+            "PreSize": {
+              "X": 0.8917,
+              "Y": 0.0836
+            },
+            "LeftMargin": 39.0,
+            "RightMargin": 39.0,
+            "TopMargin": 380.0261,
+            "BottomMargin": 792.9739,
+            "Tag": 281,
+            "ActionTag": 1543154422,
+            "Size": {
+              "X": 642.0,
+              "Y": 107.0
+            },
+            "Name": "suctitle_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "rank/losedownbg.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 31,
+            "Scale9OriginY": 31,
+            "Scale9Width": 32,
+            "Scale9Height": 32,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 359.9999,
+              "Y": 655.5226
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5121
+            },
+            "PreSize": {
+              "X": 0.8361,
+              "Y": 0.2141
+            },
+            "LeftMargin": 58.9999,
+            "RightMargin": 59.0001,
+            "TopMargin": 487.4774,
+            "BottomMargin": 518.5226,
+            "Tag": 282,
+            "ActionTag": 2120083361,
+            "Size": {
+              "X": 602.0,
+              "Y": 274.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "shop/buybtn.png",
+              "Plist": "csi/csi_16.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 459.0695
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3586
+            },
+            "PreSize": {
+              "X": 0.3153,
+              "Y": 0.1031
+            },
+            "LeftMargin": 246.5,
+            "RightMargin": 246.5,
+            "TopMargin": 754.9305,
+            "BottomMargin": 393.0695,
+            "Tag": 283,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "shop/getbtn.png",
+                  "Plist": "csi/csi_16.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 115.8994,
+                  "Y": 63.8833
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5106,
+                  "Y": 0.484
+                },
+                "PreSize": {
+                  "X": 0.5815,
+                  "Y": 0.303
+                },
+                "LeftMargin": 49.8994,
+                "RightMargin": 45.1006,
+                "TopMargin": 48.1167,
+                "BottomMargin": 43.8833,
+                "Tag": 284,
+                "ActionTag": 119041888,
+                "Size": {
+                  "X": 85.0,
+                  "Y": 38.0
+                },
+                "Name": "price3_31",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1319350183,
+            "Size": {
+              "X": 227.0,
+              "Y": 132.0
+            },
+            "Name": "btnClose",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "shop/sucdes.png",
+              "Plist": "csi/csi_16.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 565.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4414
+            },
+            "PreSize": {
+              "X": 0.7639,
+              "Y": 0.0469
+            },
+            "LeftMargin": 85.0,
+            "RightMargin": 85.0,
+            "TopMargin": 685.0,
+            "BottomMargin": 535.0,
+            "Tag": 287,
+            "ActionTag": 1968547620,
+            "Size": {
+              "X": 550.0,
+              "Y": 60.0
+            },
+            "Name": "sucdes_4",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../csi/csi_1.plist",
+        "../csi/csi_1.png",
+        "../csi/csi_16.plist",
+        "../csi/csi_16.png",
+        "../csi/scaleplist.plist",
+        "../csi/scaleplist.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

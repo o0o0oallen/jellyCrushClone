@@ -1,0 +1,583 @@
+{
+  "ID": "29f4c4b3-670f-4e11-b1e5-047df7318ba9",
+  "Version": "3.10.0.0",
+  "Name": "send_heart_rank_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 49,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "heartrank/page2.png",
+              "Plist": "csi/csi_9.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 325.9996,
+              "Y": 136.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4528,
+              "Y": 0.1063
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.0938
+            },
+            "LeftMargin": 220.9996,
+            "RightMargin": 289.0004,
+            "TopMargin": 1084.0,
+            "BottomMargin": 76.0,
+            "Tag": 61,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "heartrank/lives_n.png",
+                  "Plist": "csi/csi_9.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 105.0,
+                  "Y": 85.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7083
+                },
+                "PreSize": {
+                  "X": 0.4143,
+                  "Y": 0.2917
+                },
+                "LeftMargin": 61.5,
+                "RightMargin": 61.5,
+                "TopMargin": 17.5,
+                "BottomMargin": 67.5,
+                "Tag": 62,
+                "ActionTag": 1709501485,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 35.0
+                },
+                "Name": "lives",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1297283204,
+            "Size": {
+              "X": 210.0,
+              "Y": 120.0
+            },
+            "Name": "pagebtn2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "heartrank/page2.png",
+              "Plist": "csi/csi_9.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 105.0045,
+              "Y": 136.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1458,
+              "Y": 0.1063
+            },
+            "PreSize": {
+              "X": 0.2917,
+              "Y": 0.0938
+            },
+            "LeftMargin": 0.0045,
+            "RightMargin": 509.9955,
+            "TopMargin": 1084.0,
+            "BottomMargin": 76.0,
+            "Tag": 59,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "heartrank/friends_n.png",
+                  "Plist": "csi/csi_9.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 105.0,
+                  "Y": 85.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7083
+                },
+                "PreSize": {
+                  "X": 0.6524,
+                  "Y": 0.3
+                },
+                "LeftMargin": 36.5,
+                "RightMargin": 36.5,
+                "TopMargin": 17.0,
+                "BottomMargin": 67.0,
+                "Tag": 60,
+                "ActionTag": 2147063908,
+                "Size": {
+                  "X": 137.0,
+                  "Y": 36.0
+                },
+                "Name": "friends",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1438155230,
+            "Size": {
+              "X": 210.0,
+              "Y": 120.0
+            },
+            "Name": "pagebtn1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "heartrank/scale1.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 39,
+            "Scale9OriginY": 39,
+            "Scale9Width": 42,
+            "Scale9Height": 42,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": -217.0073
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": -0.1695
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.5391
+            },
+            "TopMargin": 1152.0073,
+            "BottomMargin": -562.0073,
+            "Tag": 58,
+            "ActionTag": 2011100176,
+            "Size": {
+              "X": 720.0,
+              "Y": 690.0
+            },
+            "Name": "Image_11",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "heartrank/scale2.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 39,
+            "Scale9OriginY": 39,
+            "Scale9Width": 42,
+            "Scale9Height": 42,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0002,
+              "Y": -168.9882
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": -0.132
+            },
+            "PreSize": {
+              "X": 0.9583,
+              "Y": 0.4375
+            },
+            "LeftMargin": 15.0002,
+            "RightMargin": 14.9998,
+            "TopMargin": 1168.9883,
+            "BottomMargin": -448.9882,
+            "Tag": 57,
+            "ActionTag": -273765825,
+            "Size": {
+              "X": 690.0,
+              "Y": 560.0
+            },
+            "Name": "heartRankbg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "heartrank/rankbtn1.png",
+              "Plist": "csi/csi_9.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 575.0,
+              "Y": 160.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7986,
+              "Y": 0.125
+            },
+            "PreSize": {
+              "X": 0.3694,
+              "Y": 0.0523
+            },
+            "LeftMargin": 442.0,
+            "RightMargin": 12.0,
+            "TopMargin": 1086.5,
+            "BottomMargin": 126.5,
+            "Tag": 50,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "heartrank/showless.png",
+                  "Plist": "csi/csi_9.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 125.1224,
+                  "Y": 35.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4704,
+                  "Y": 0.5224
+                },
+                "PreSize": {
+                  "X": 0.5827,
+                  "Y": 0.3433
+                },
+                "LeftMargin": 47.6224,
+                "RightMargin": 63.3776,
+                "TopMargin": 20.5,
+                "BottomMargin": 23.5,
+                "Tag": 51,
+                "ActionTag": 697473285,
+                "Size": {
+                  "X": 155.0,
+                  "Y": 23.0
+                },
+                "Name": "showless_14",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "heartrank/arrowdown.png",
+                  "Plist": "csi/csi_9.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 224.3153,
+                  "Y": 36.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8433,
+                  "Y": 0.5373
+                },
+                "PreSize": {
+                  "X": 0.109,
+                  "Y": 0.3433
+                },
+                "LeftMargin": 209.8153,
+                "RightMargin": 27.1847,
+                "TopMargin": 19.5,
+                "BottomMargin": 24.5,
+                "Tag": 52,
+                "ActionTag": 1633892972,
+                "Size": {
+                  "X": 29.0,
+                  "Y": 23.0
+                },
+                "Name": "arrowup",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -291194657,
+            "Size": {
+              "X": 266.0,
+              "Y": 67.0
+            },
+            "Name": "showlessbtn",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "heartrank/rankbtn2.png",
+              "Plist": "csi/csi_9.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 359.9996,
+              "Y": -508.1014
+            },
+            "Scale": {
+              "ScaleX": 0.9731,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": -0.397
+            },
+            "PreSize": {
+              "X": 0.2056,
+              "Y": 0.0437
+            },
+            "LeftMargin": 181.9996,
+            "RightMargin": 182.0004,
+            "TopMargin": 1738.6013,
+            "BottomMargin": -557.6014,
+            "Tag": 53,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "heartrank/invitedes2.png",
+                  "Plist": "csi/csi_9.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 173.4446,
+                  "Y": 54.4689
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4872,
+                  "Y": 0.5502
+                },
+                "PreSize": {
+                  "X": 0.6689,
+                  "Y": 0.4821
+                },
+                "LeftMargin": 18.9446,
+                "RightMargin": 28.0554,
+                "TopMargin": 30.0311,
+                "BottomMargin": 39.9689,
+                "Tag": 54,
+                "ActionTag": -247999440,
+                "Size": {
+                  "X": 309.0,
+                  "Y": 29.0
+                },
+                "Name": "invitedes1_7",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1819224543,
+            "Size": {
+              "X": 356.0,
+              "Y": 99.0
+            },
+            "Name": "invitebtn",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "heartrank/animal.png",
+              "Plist": "csi/csi_9.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 136.6581,
+              "Y": -484.3252
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1898,
+              "Y": -0.3784
+            },
+            "PreSize": {
+              "X": 0.1611,
+              "Y": 0.1141
+            },
+            "LeftMargin": 78.6581,
+            "RightMargin": 525.3419,
+            "TopMargin": 1691.3252,
+            "BottomMargin": -557.3252,
+            "Tag": 55,
+            "ActionTag": -1153085214,
+            "Size": {
+              "X": 116.0,
+              "Y": 146.0
+            },
+            "Name": "animal_6",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../csi/csi_9.plist",
+        "../csi/csi_9.png",
+        "../csi/scaleplist.plist",
+        "../csi/scaleplist.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

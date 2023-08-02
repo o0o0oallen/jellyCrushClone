@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>pngdata/msg_box/png1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{318,568},{285,239}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{285,239}</string>
+			</dict>
+			<key>pngdata/msg_box/png2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{568,1},{255,132}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{255,132}</string>
+			</dict>
+			<key>pngdata/msg_box/png3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{723,827},{265,173}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{265,173}</string>
+			</dict>
+			<key>pngdata/msg_box/png4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{559,568},{257,185}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{257,185}</string>
+			</dict>
+			<key>pngdata/msg_box/png5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{702,209},{109,109}}</string>
+				<key>offset</key>
+				<string>{-2,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{114,114}</string>
+			</dict>
+			<key>pngdata/msg_box/png6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,568},{315,315}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{318,318}</string>
+			</dict>
+			<key>pngdata/msg_box/png7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{746,1},{228,206}}</string>
+				<key>offset</key>
+				<string>{2,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
+			</dict>
+			<key>pngdata/msg_box/png8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{565,565}}</string>
+				<key>offset</key>
+				<string>{1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{575,575}</string>
+			</dict>
+			<key>sign/lottery_tips.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,885},{720,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{720,64}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>csi_15.png</string>
+			<key>realTextureFileName</key>
+			<string>csi_15.png</string>
+			<key>size</key>
+			<string>{989,1001}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>989</integer>
+			<key>height</key>
+			<integer>1001</integer>
+		</dict>
+	</dict>
+</plist>

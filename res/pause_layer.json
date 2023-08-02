@@ -1,0 +1,686 @@
+{
+  "ID": "0bc912a6-eb77-4628-af1f-d06d64538103",
+  "Version": "3.10.0.0",
+  "Name": "pause_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 15,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/scalebg.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 99,
+            "Scale9OriginY": 99,
+            "Scale9Width": 102,
+            "Scale9Height": 102,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 368.9982,
+              "Y": 631.2584
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5125,
+              "Y": 0.4932
+            },
+            "PreSize": {
+              "X": 0.8264,
+              "Y": 0.3625
+            },
+            "LeftMargin": 71.4982,
+            "RightMargin": 53.5018,
+            "TopMargin": 416.7416,
+            "BottomMargin": 399.2584,
+            "Tag": 283,
+            "ActionTag": -1226723180,
+            "Size": {
+              "X": 595.0,
+              "Y": 464.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/titlebgleft.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 228.45,
+              "Y": 779.1746
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3173,
+              "Y": 0.6087
+            },
+            "PreSize": {
+              "X": 0.3833,
+              "Y": 0.0969
+            },
+            "LeftMargin": 90.45,
+            "RightMargin": 353.55,
+            "TopMargin": 438.8254,
+            "BottomMargin": 717.1746,
+            "Tag": 285,
+            "ActionTag": 1056120748,
+            "Size": {
+              "X": 276.0,
+              "Y": 124.0
+            },
+            "Name": "titlebg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/titlebgleft.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 503.69,
+              "Y": 779.1649
+            },
+            "Scale": {
+              "ScaleX": -1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6996,
+              "Y": 0.6087
+            },
+            "PreSize": {
+              "X": 0.3833,
+              "Y": 0.0969
+            },
+            "LeftMargin": 365.69,
+            "RightMargin": 78.31,
+            "TopMargin": 438.8351,
+            "BottomMargin": 717.1649,
+            "Tag": 286,
+            "ActionTag": 719663929,
+            "Size": {
+              "X": 276.0,
+              "Y": 124.0
+            },
+            "Name": "titlebg2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/closebtnbg.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 584.4,
+              "Y": 788.31
+            },
+            "Scale": {
+              "ScaleX": -1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8117,
+              "Y": 0.6159
+            },
+            "PreSize": {
+              "X": 0.1139,
+              "Y": 0.0641
+            },
+            "LeftMargin": 543.4,
+            "RightMargin": 94.6,
+            "TopMargin": 450.69,
+            "BottomMargin": 747.31,
+            "Tag": 287,
+            "ActionTag": 860383527,
+            "Size": {
+              "X": 82.0,
+              "Y": 82.0
+            },
+            "Name": "closebtnbg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/music_text.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 265.1463,
+              "Y": 665.7894
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3683,
+              "Y": 0.5201
+            },
+            "PreSize": {
+              "X": 0.1819,
+              "Y": 0.0367
+            },
+            "LeftMargin": 196.1463,
+            "RightMargin": 385.8537,
+            "TopMargin": 596.7106,
+            "BottomMargin": 648.2894,
+            "Tag": 17,
+            "ActionTag": -1447197009,
+            "Size": {
+              "X": 138.0,
+              "Y": 35.0
+            },
+            "Name": "music_text_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/pause_text.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 361.7731,
+              "Y": 792.8937
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5025,
+              "Y": 0.6194
+            },
+            "PreSize": {
+              "X": 0.2792,
+              "Y": 0.0594
+            },
+            "LeftMargin": 261.2731,
+            "RightMargin": 257.7269,
+            "TopMargin": 449.1063,
+            "BottomMargin": 754.8937,
+            "Tag": 18,
+            "ActionTag": 2010309952,
+            "Size": {
+              "X": 199.0,
+              "Y": 55.0
+            },
+            "Name": "pause_text_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/sound_text.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 265.0612,
+              "Y": 582.8412
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3681,
+              "Y": 0.4553
+            },
+            "PreSize": {
+              "X": 0.1806,
+              "Y": 0.0367
+            },
+            "LeftMargin": 198.5612,
+            "RightMargin": 388.4388,
+            "TopMargin": 679.6588,
+            "BottomMargin": 565.3412,
+            "Tag": 19,
+            "ActionTag": -183497310,
+            "Size": {
+              "X": 133.0,
+              "Y": 35.0
+            },
+            "Name": "sound_text_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/home_btn.png",
+              "Plist": "csi/csi_11.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 486.9104,
+              "Y": 500.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6763,
+              "Y": 0.3906
+            },
+            "PreSize": {
+              "X": 0.2903,
+              "Y": 0.1063
+            },
+            "LeftMargin": 382.4104,
+            "RightMargin": 128.5896,
+            "TopMargin": 712.0,
+            "BottomMargin": 432.0,
+            "Tag": 24,
+            "ActionTag": -1036394873,
+            "Size": {
+              "X": 209.0,
+              "Y": 136.0
+            },
+            "Name": "btnHome",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/replay.png",
+              "Plist": "csi/csi_8.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 241.5229,
+              "Y": 500.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3354,
+              "Y": 0.3906
+            },
+            "PreSize": {
+              "X": 0.2903,
+              "Y": 0.1063
+            },
+            "LeftMargin": 137.0229,
+            "RightMargin": 373.9771,
+            "TopMargin": 712.0,
+            "BottomMargin": 432.0,
+            "Tag": 25,
+            "ActionTag": 899717078,
+            "Size": {
+              "X": 209.0,
+              "Y": 136.0
+            },
+            "Name": "btnReplay",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "lottery/close.png",
+              "Plist": "csi/csi_20.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 584.4024,
+              "Y": 788.3062
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8117,
+              "Y": 0.6159
+            },
+            "PreSize": {
+              "X": 0.0986,
+              "Y": 0.0547
+            },
+            "LeftMargin": 548.9024,
+            "RightMargin": 100.0976,
+            "TopMargin": 456.6938,
+            "BottomMargin": 753.3062,
+            "Tag": 26,
+            "ActionTag": -1111568568,
+            "Size": {
+              "X": 71.0,
+              "Y": 70.0
+            },
+            "Name": "btnClose",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "result/off.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 451.6813,
+              "Y": 665.505
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6273,
+              "Y": 0.5199
+            },
+            "PreSize": {
+              "X": 0.1458,
+              "Y": 0.0258
+            },
+            "LeftMargin": 399.1813,
+            "RightMargin": 215.8187,
+            "TopMargin": 597.995,
+            "BottomMargin": 649.005,
+            "Tag": 1,
+            "ActionTag": 1846855493,
+            "Size": {
+              "X": 105.0,
+              "Y": 33.0
+            },
+            "Name": "bg1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "result/off.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 451.756,
+              "Y": 585.546
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6274,
+              "Y": 0.4575
+            },
+            "PreSize": {
+              "X": 0.1458,
+              "Y": 0.0258
+            },
+            "LeftMargin": 399.256,
+            "RightMargin": 215.744,
+            "TopMargin": 677.954,
+            "BottomMargin": 569.046,
+            "Tag": 2,
+            "ActionTag": 17860625,
+            "Size": {
+              "X": 105.0,
+              "Y": 33.0
+            },
+            "Name": "bg2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "BackGroundData": {
+              "Type": "MarkedSubImage",
+              "Path": "result/off.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "ProgressBarData": {
+              "Type": "MarkedSubImage",
+              "Path": "result/on.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BallNormalData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/music_btn.png",
+              "Plist": "csi/csi_17.plist"
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 452.0018,
+              "Y": 665.1327
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6278,
+              "Y": 0.5196
+            },
+            "PreSize": {
+              "X": 0.1458,
+              "Y": 0.0258
+            },
+            "LeftMargin": 399.5018,
+            "RightMargin": 215.4982,
+            "TopMargin": 598.3673,
+            "BottomMargin": 648.6327,
+            "Tag": 1,
+            "ActionTag": 1197072979,
+            "Size": {
+              "X": 105.0,
+              "Y": 33.0
+            },
+            "Name": "slider_music",
+            "ctype": "SliderObjectData"
+          },
+          {
+            "BackGroundData": {
+              "Type": "MarkedSubImage",
+              "Path": "result/off.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "ProgressBarData": {
+              "Type": "MarkedSubImage",
+              "Path": "result/on.png",
+              "Plist": "csi/csi_1.plist"
+            },
+            "BallNormalData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/sound_btn.png",
+              "Plist": "csi/csi_17.plist"
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 452.0018,
+              "Y": 584.6101
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6278,
+              "Y": 0.4567
+            },
+            "PreSize": {
+              "X": 0.1458,
+              "Y": 0.0258
+            },
+            "LeftMargin": 399.5018,
+            "RightMargin": 215.4982,
+            "TopMargin": 678.8899,
+            "BottomMargin": 568.1101,
+            "Tag": 2,
+            "ActionTag": -898300579,
+            "Size": {
+              "X": 105.0,
+              "Y": 33.0
+            },
+            "Name": "slider_audic",
+            "ctype": "SliderObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "csi/csi_1.plist",
+        "csi/csi_1.png",
+        "csi/csi_11.plist",
+        "csi/csi_11.png",
+        "csi/csi_17.plist",
+        "csi/csi_17.png",
+        "csi/csi_20.plist",
+        "csi/csi_20.png",
+        "csi/csi_8.plist",
+        "csi/csi_8.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
